@@ -1,3 +1,40 @@
+var friendAge = [23, 34, 343, 43, 43, 43];
+friendAge = friendAge.length;
+console.log(friendAge);
+
+var friendAge = [23, 34, 343, 43, 43, 43];
+friendAge.length = 3;
+console.log(friendAge);
+
+var friendAge = [23, 34, 343, 43, 43, 43];
+friendAge = friendAge.indexOf(343);
+console.log(friendAge);
+
+var friendName = [ "eshak", "khan", "hjhj", "lol",];
+friendName [2] = "masud";
+friendName [3] = "zubayer";
+console.log(friendName)
+
+var friendName = [ "eshak", "khan", "hjhj", "lol",];
+friendName [2] = "masud";
+friendName [3] = "zubayer";
+friendName.push("ibn")
+friendName.push("shihab")
+console.log(friendName)
+
+var friendName = [ "eshak", "khan", "name", "dichi",];
+friendName.pop()
+console.log(friendName)
+
+var friendName = [ "eshak", "khan", "name", "dichi",];
+var alada = friendName.pop()
+console.log(alada)
+
+var friendName = [ "eshak", "khan", "name", "dichi",];
+friendName.shift()
+console.log(friendName)
+
+
 var takaAche = 30;
 var khabrerDam = 37;
 
