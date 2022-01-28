@@ -108,6 +108,6 @@ var education = true;
 var somman = true;
 
 if (((bari && gari) || (bebsa && education)) || somman) {
-    console.log("tahole meye biya deoya jay")
+    console.log("tahole meye biya deoya jay");
 }
 
