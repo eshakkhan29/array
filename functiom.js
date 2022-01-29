@@ -24,3 +24,20 @@
 // var ditiyoMan = 20;
 // var fol = biyogKoro(prothomMan, ditiyoMan);
 // console.log(fol);
+
+// var smartphone = { brand: "iPhone", model: "13" };
+// console.log(smartphone["brand"]);
+
+// function getReminder(number1, number2) {
+//     number1 % number2;
+//   }
+  
+//   const reminder = getReminder(12, 2);
+  
+//   console.log(reminder);
+// function addNumber(number1, number2) {
+//     return "Result is " + number1 + number2;
+//    }
+   
+//    var result = addNumber(5, 4);
+//    console.log(result);
